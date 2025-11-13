@@ -1,0 +1,1 @@
+This project contains numerous images added for content purposes. However, GitHub has a limitation of 100 images per repository. To comply with this limit, some images have been removed, while the overall project structure and card components remain fully intact.
